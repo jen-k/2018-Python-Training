@@ -46,4 +46,5 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 
 ### [Week 7+](/week7.md)
 - [ ] Improve tests for existing systems
+- [ ] Improve accessibility for existing systems
 - [ ] Start working on bugs from the backlog
