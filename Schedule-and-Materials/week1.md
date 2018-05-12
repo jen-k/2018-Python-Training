@@ -6,7 +6,7 @@
 - [ ] Schedule recurring 30 minute meetings with your mentor once a week for 6 weeks
 
 ## GitHub use at UT
-
+I believe you are all familiar with GitHub, but this tutorial will give you some insight into how the tool is used at UT. 
 
 ## UT Web Development Best Practices
 HTML, CSS, and JavaScript materials have been excluded from these training materials because all of you should already be familiar with those concepts. The readings here are optional, but know you should follow University validation practices whenever publishing a site.
@@ -16,6 +16,8 @@ HTML, CSS, and JavaScript materials have been excluded from these training mater
 
 ## Intro to Python
 During your first week, you'll work through the [Think Python](https://interactivepython.org/courselib/static/thinkcspy/index.html) Tutorial. Chapters 1 through 10 will prepare you for exercises 1 and 2 below. Complete the rest of the chapters before moving on to additional exercises.
+
+Optional: The [RegIT program](https://wikis.utexas.edu/display/training2020/7.+Python%3A+Syntax+and+Concepts) follows a different timeline with different materials and has a lot of detailed instruction. Check it out of there are some concepts that aren't making sense.
 
 ## Coding Exercise 1 - Substrings
 Assume s is a string of lower case characters.
