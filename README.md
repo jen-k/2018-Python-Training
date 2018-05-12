@@ -8,8 +8,8 @@ During your first six weeks with us, you'll complete the training contained in t
 -	[TRecs New Hire Onboarding](https://wikis.utexas.edu/display/trecs/TRecs+New+Hire+Onboarding) - Instructions on how to set up your machine and other details about getting started in TRecs.
 -	[Roles and Expectations](/Roles-and-Expectations.md) - Information about what to expect during your training.
 - [HR New Hire Checklist](https://hr.utexas.edu/current/new/new-employee-checklist) - This will take you to the list of things you'll need to compete for HR within your first month at the University including setting up benefits and completing compliance courses.
-- [ ] Complete your compliance modules by day 30
-- [ ] Complete your benefits enrollment by day 31
+    * Complete your compliance modules by day 30
+    * Complete your benefits enrollment by day 31
 
 
 
