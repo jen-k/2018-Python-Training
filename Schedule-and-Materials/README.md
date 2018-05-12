@@ -7,7 +7,7 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 
 ## Schedule & Key Deliverables
 
-### [Week 1](/week1)
+### [Week 1](/week1.md)
 - [ ] GitHub use at UT
 - [ ] Web development best practices
 - [ ] Intro to Python
@@ -15,7 +15,7 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 - [ ] Coding Task 2
 - [ ] Coding Task 3
 
-### [Week 2](/week2)
+### [Week 2](/week2.md)
 - [ ] Advanced Python Concepts
 - [ ] Coding Task 4
 - [ ] Coding Task 5
@@ -23,7 +23,7 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 - [ ] Coding Task 7
 - [ ] Intro to Django
 
-### [Week 3](/week3)
+### [Week 3](/week3.md)
 - [ ] Intro to Agile/Start attending Scrum & Planning
 - [ ] Intro to Databases & SQL
 - [ ] Intro to Pype
@@ -33,17 +33,17 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 - [ ] Design your project - no coding until after design review
 - [ ] Host a Design Review
 
-### [Week 4-5](/week4-5)
+### [Week 4-5](/week4-5.md)
 - [ ] Create project tasks in JIRA
 - [ ] Actively participate in Agile Ceremonies
 - [ ] Build your project
 
-### [Week 6](/week6)
+### [Week 6](/week6.md)
 - [ ] Host a Code Review/Demo
 - [ ] Get client signoff on the project
 - [ ] Build tests for your Project
 - [ ] First formal evaluation
 
-### [Week 7+](/week7)
+### [Week 7+](/week7.md)
 - [ ] Improve tests for existing systems
 - [ ] Start working on bugs from the backlog
