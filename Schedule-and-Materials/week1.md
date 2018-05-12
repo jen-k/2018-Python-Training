@@ -41,7 +41,7 @@ Once you’ve tested your program to satisfaction, rewrite it as a function that
 Design a single-player Hangman game using function(s).
 
 ## Coding Exercise 3 - Classy Hangman
-Take the Hangman game you created in Exercise 2: Hangman and convert it to use class(es) instead of function(s).
+Copy the Hangman game you created in Exercise 2: Hangman and convert it to use class(es) instead of function(s).
 
 Add these features, plus any others you feel are appropriate:
 
