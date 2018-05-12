@@ -15,6 +15,7 @@ HTML, CSS, and JavaScript materials have been excluded from these training mater
 - Validate your HTML before publishing: [W3C Markup Validation Service](http://validator.w3.org/)
 
 ## Intro to Python
+During your first week, you'll work through the [Think Python](https://interactivepython.org/courselib/static/thinkcspy/index.html) Tutorial. Chapters 1 through 10 will prepare you for exercises 1 and 2 below. Complete the rest of the chapters before moving on to additional exercises.
 
 ## Coding Exercise 1 - Substrings
 Assume s is a string of lower case characters.

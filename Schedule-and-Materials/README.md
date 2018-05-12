@@ -16,6 +16,7 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 - [ ] Coding Exercise 3
 
 ### [Week 2](/Schedule-and-Materials/week2.md)
+- [ ] Python Best Practices
 - [ ] Coding Exercise 4
 - [ ] Coding Exercise 5
 - [ ] Coding Exercise 6
