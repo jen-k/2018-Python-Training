@@ -11,16 +11,16 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 - [ ] GitHub use at UT
 - [ ] Web development best practices
 - [ ] Intro to Python
-- [ ] Coding Task 1
-- [ ] Coding Task 2
-- [ ] Coding Task 3
+- [ ] Coding Exercise 1
+- [ ] Coding Exercise 2
+- [ ] Coding Exercise 3
 
 ### [Week 2](/Schedule-and-Materials/week2.md)
 - [ ] Advanced Python Concepts
-- [ ] Coding Task 4
-- [ ] Coding Task 5
-- [ ] Coding Task 6
-- [ ] Coding Task 7
+- [ ] Coding Exercise 4
+- [ ] Coding Exercise 5
+- [ ] Coding Exercise 6
+- [ ] Coding Exercise 7
 - [ ] Intro to Django
 
 ### [Week 3](/Schedule-and-Materials/week3.md)
