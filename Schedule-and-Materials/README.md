@@ -1,8 +1,5 @@
 # Schedule and Materials
 
-## Contents
-
-
 ## Program Structure
 UT has run an in-house Software Developer Training Program (SDTP) off and on since the 70s. The SDTP was initially designed to teach programmers Natural. The TRecs Python Program is loosely based on the most recent version of the SDTP, but excludes the Natural Programming portions. If you are interested in learning more about the traditional training program, you can view the materials currently in use by [RegIT](https://wikis.utexas.edu/display/training2020/Trainee+Area) (Registrar's office IT).
 
@@ -12,13 +9,11 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 
 ### [Week 1](/week1)
 - [ ] GitHub use at UT
-- [ ] Meet your mentor
-- [ ] Introductory Python Concepts
+- [ ] Web development best practices
+- [ ] Intro to Python
 - [ ] Coding Task 1
 - [ ] Coding Task 2
 - [ ] Coding Task 3
-- [ ] Review challenges with Matt
-- [ ] Gain approval to move on to Advanced Python
 
 ### [Week 2](/week2)
 - [ ] Advanced Python Concepts
@@ -26,8 +21,6 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 - [ ] Coding Task 5
 - [ ] Coding Task 6
 - [ ] Coding Task 7
-- [ ] Review challenges with Matt
-- [ ] Gain approval to move on to Project Design
 - [ ] Intro to Django
 
 ### [Week 3](/week3)
