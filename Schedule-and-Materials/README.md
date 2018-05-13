@@ -1,7 +1,7 @@
 # Schedule and Materials
 
 ## Program Structure
-UT has run an in-house Software Developer Training Program (SDTP) off and on since the 70s. The SDTP was initially designed to teach programmers Natural. The TRecs Python Program is loosely based on the most recent version of the SDTP, but excludes the Natural Programming portions. If you are interested in learning more about the traditional training program, you can view the materials currently in use by [RegIT](https://wikis.utexas.edu/display/training2020/Trainee+Area) (Registrar's office IT).
+UT has run an in-house Software Developer Training Program (SDTP) off and on since the 70s. The SDTP was initially designed to teach programmers Natural. The TRecs Python Program is loosely based on the most recent version of the SDTP, but excludes the Natural Programming portions. If you are interested in learning more about the traditional training program, you can view the materials currently in use by RegIT (Registrar's office IT) [Training 20/20](https://wikis.utexas.edu/display/training2020/Trainee+Area) or the materials from the most recent ITS version of the program (now defunct) [SDTP](https://utdirect.utexas.edu/epd/training/).
 
 Since the TRecs Python Program is the first of it's kind, the schedule below is based on estimates. Training will all be self-guided, and we expect there to be variations in how fast each section is completed for each individual. If you complete the materials early, you may move on to the next set, but don't rush! Producing quality, readable code is more valuable than speed at this stage. If you fall behind, don't stress. We want you to feel comfortable working at your own pace, so long as you continue to produce good work.
 

@@ -6,8 +6,7 @@
 ## Study materials
 ### Python Tips and Best practices
 - Read links to information on accessibility, HTML, and PEP8 validation on the [Puffins Standards wiki page](https://wikis.utexas.edu/x/AbFbCQ)
-- Read about test driven development on [Training 2020](https://wikis.utexas.edu/display/training2020/Test+Driven+Development)
-    *
+- Read about test driven development on [Training 20/20](https://wikis.utexas.edu/display/training2020/Test+Driven+Development)
 - Details about how to improve string formatting [PyFormat](https://pyformat.info/)
 
 ## Deliverables

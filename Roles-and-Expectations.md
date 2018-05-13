@@ -1,7 +1,7 @@
 # Roles and Expectations
 
 ## Roles
-- Supervisor – Jen Krummel (TRecs)
+- Manager – Jen Krummel (TRecs)
 - Director – Liz Keene (TRecs)
 - Trainer/Evaluator of technical skills – Matt Tokoly (TRecs)
 - Project Client – Dolores Wheele (TRecs)
@@ -20,19 +20,18 @@
 ### Attitude Toward Training
 - **Take charge of your training.** Keep the lines of communication open and make sure you resolve any problems that arise. If you don't know how to resolve a problem, ask for help. In general good people to talk to include your mentor, the  manager, your trainer, or anyone on the team.
 - **Treat your trainer like your supervisor.** He is your project leader and needs to be aware of where the project stands. Remember that it is not your trainer's responsibility to give you the answers. His job is to guide you in the right direction.
-- Bring a clean copy of your code to each meeting so that your trainer can review it. If you can let them know in advance that it's in QUAL for them to review, please do so.
+    - Bring a clean copy of your code to each meeting so that your trainer can review it. If you can let them know in advance that it's in QUAL for them to review, please do so.
 - **Follow all instructions, both written and verbal.** Take good notes during meetings. Use these notes as a checklist for each exercise. Ask your trainer to confirm your checklist is complete and accurate after each meeting.
-- Keep track of the tasks that you have completed and show your trainer how you completed it, such as sharing your code.
+    - Keep track of the tasks that you have completed and show your trainer how you completed it, such as sharing your code.
 
 ### Time Management
 - Show a sense of urgency to complete challenges on time or ahead of time. With production projects, there will be occasions where a project deadline is critical and cannot be missed.
 - Create your own schedule for each challenge and review it with your analyst.
 - Use the schedule as a checklist to ensure that you have completed all the tasks from each week. Make sure to review the schedule when you think you have completed the all the exercises to ensure that you have accomplished all the necessary tasks.
-- Touch base with your trainer regularly, even every day. Ask questions. Keep your trainer informed of your progress.
-- Review your schedule regularly and ensure that your trainer and manager remain up-to-date with your progression throughout training.
-- Your trainer needs to approve each exercise before it is finished.
+- Review your schedule regularly and ensure that your trainer and manager remain up-to-date with your progress throughout training.
+- Your trainer needs to approve your exercises each week before progressing on to the exercises for the following week.
 
-### Approach to the Challenges
+### Approach to the Exercises
 - Read and learn the syntax of the code statements included in each exercise.
 - Learn the correct terminology. You should strive to understand and use technical terms precisely and correctly while talking with other technical staff.
 - Read and interpret the documentation for the languages you are working with.
@@ -45,11 +44,11 @@
 ### Communication and Meetings
 - Remember that it is your responsibility to keep the lines of communication open and resolve any problems that arise.
 - Code reviews, demos, and other meetings should not be scheduled before 8:30 am, at 1:00 pm, or after 4:30 pm if at all possible. This is just a courtesy to the participants.
-- Your manager and mentor should be invited to all your code reviews. Make sure that you do not schedule a conflict on his or her calendar. You may ask if something can be rescheduled.
+- Your manager, trainer, and mentor should be invited to your code reviews. Make sure that you do not schedule a conflict on anyone's calendar. You may ask if something can be rescheduled.
 - Be respectful of your colleagues' time. Proofread and test your work before having your anyone review it.
 
 ## Tips on how to be successful
-**Ask questions!** [Don't get stuck](https://codewithoutrules.com/2016/12/08/how-not-to-get-stuck/). When you run in to a problem that Google can't solve, consult your peers, then Matt, then your mentor in that order.
+**Ask questions!** [Don't get stuck](https://codewithoutrules.com/2016/12/08/how-not-to-get-stuck/). When you run in to a problem that Google can't solve, consult your peers, then your trainer, then your mentor in that order.
 
 **Help each other!** The goal is for all of you to successfully complete this training. There is no benefit to finishing early. It is more important that everyone work together to achieve the common goal.
 
@@ -81,7 +80,7 @@ Follow all instructions from trainers and mentors and treat them like a supervis
 While you are on probation, you should treat the period as an extended interview — not just with your manager, but with all the staff you may come into contact with.
 
 ### Probation
-All employees new to the University are considered "[Probationary](https://policies.utexas.edu/policies/probationary-employees)" for their first 180 calendar days with the University. Your manager will perform an evaluation at 45, 90, and 120 days to ensure you are meeting expectations. Skills included in the evaluation include:
+All employees new to the University are considered "[Probationary](https://policies.utexas.edu/policies/probationary-employees)" for their first 180 calendar days of employment. Your manager will perform an evaluation at 45, 90, and 120 days to ensure you are meeting expectations. Some of the skills on which you are evaluated:
 - Interpersonal skills
 - Time management skills
 - Communication skills
