@@ -12,7 +12,6 @@ I believe you are all familiar with GitHub, but [this tutorial](https://github.a
 ### UT Web Development Best Practices
 HTML, CSS, and JavaScript materials have been excluded from these training materials because all of you should already be familiar with those concepts. The readings here are optional, but know you should follow University validation practices whenever publishing a site.
 - If you need to brush up on your HTML, CSS, or JavaScript skills, [HTML Dog](http://htmldog.com/) is a great resource.
-- It is important to build accessible sites. RegIT has thorough documentation on why and how to build accessible sites: [Training 2020: Accessibility](https://wikis.utexas.edu/display/training2020/Accessibility)
 - Validate your HTML before publishing: [W3C Markup Validation Service](http://validator.w3.org/)
 
 ### Intro to Python
@@ -23,7 +22,7 @@ If you're feeling stuck, or some of the material isn't working for you, try to f
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) If you like the free portion of this tutorial, we can provide a PDF copy of the full version.
 - [Google's Python Tutorial](https://developers.google.com/edu/python/)
 - [Code Club Python Tutorial](https://codeclubprojects.org/en-GB/python/)
-- The [RegIT program](https://wikis.utexas.edu/display/training2020/7.+Python%3A+Syntax+and+Concepts) follows a similar, but different timeline with different materials and has a lot more detailed instruction.
+- The [Training 2020 program](https://wikis.utexas.edu/display/training2020/7.+Python%3A+Syntax+and+Concepts) designed by RegIT follows a similar, but different timeline with different materials and has a lot more detailed instruction.
 
 ## Deliverables
 ### Coding Exercise 1 - Substrings
@@ -51,10 +50,9 @@ Once you’ve tested your program to satisfaction, rewrite it as a function that
 Design a single-player Hangman game using function(s).
 
 ### Coding Exercise 3 - Classy Hangman
-Copy the Hangman game you created in Exercise 2: Hangman and convert it to use class(es) instead of function(s).
+Copy the Hangman game you created in Exercise 2 and convert it to use class(es) instead of function(s).
 
-Add these features, plus any others you feel are appropriate:
-
+Add these features:
 - Allow selection of # of players
 - Allow players to set their names
 - Allow setting the # of guesses allowed
@@ -64,4 +62,4 @@ Add these features, plus any others you feel are appropriate:
 - [ ] Schedule time with Matt to review your exercises
 - [ ] Complete any recommended changes
 - [ ] Get Matt's approval to move on to Week 2 materials
-- [ ] Update the TRecs wiki any time you see gaps in the 
+- [ ] Update the TRecs wiki any time you see gaps or errors in the content
