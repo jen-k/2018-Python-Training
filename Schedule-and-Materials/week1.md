@@ -61,6 +61,7 @@ Add these features, plus any others you feel are appropriate:
 - Use a file for selection of a random word
 
 ## Ending the week
-- [ ] Schedule time with Matt to review your tasks
+- [ ] Schedule time with Matt to review your exercises
 - [ ] Complete any recommended changes
 - [ ] Get Matt's approval to move on to Week 2 materials
+- [ ] Update the TRecs wiki any time you see gaps in the 

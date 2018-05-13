@@ -12,5 +12,4 @@ During your first six weeks with us, you'll complete the training contained in t
     * Complete your benefits enrollment by day 31
 - When you're ready, move on to [Schedule and Materials](/Schedule-and-Materials).
 
-
 #### We're so glad you're here.
