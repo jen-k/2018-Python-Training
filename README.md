@@ -10,9 +10,7 @@ During your first six weeks with us, you'll complete the training contained in t
 - [HR New Hire Checklist](https://hr.utexas.edu/current/new/new-employee-checklist) - This will take you to the list of things you'll need to compete for HR within your first month at the University including setting up benefits and completing compliance courses.
     * Complete your compliance modules by day 30
     * Complete your benefits enrollment by day 31
-
-
-
+- When you're ready, move on to [Schedule and Materials](/Schedule-and-Materials).
 
 
 #### We're so glad you're here.

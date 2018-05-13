@@ -6,7 +6,7 @@
 - [ ] Schedule recurring 30 minute meetings with your mentor once a week for 6 weeks
 
 ## GitHub use at UT
-I believe you are all familiar with GitHub, but this tutorial will give you some insight into how the tool is used at UT. 
+I believe you are all familiar with GitHub, but [this tutorial](https://github.austin.utexas.edu/asmp-delta/afraid-to-commit) will give you some insight into how the tool is used at UT.
 
 ## UT Web Development Best Practices
 HTML, CSS, and JavaScript materials have been excluded from these training materials because all of you should already be familiar with those concepts. The readings here are optional, but know you should follow University validation practices whenever publishing a site.
@@ -52,6 +52,12 @@ Add these features, plus any others you feel are appropriate:
 - Allow players to set their names
 - Allow setting the # of guesses allowed
 - Use a file for selection of a random word
+
+## Additional Resources
+If you're feeling stuck, or some of the material isn't working for you, try to find the same topic in another tutorial. Here are some solid options.
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) If you like the free portion of this tutorial, we have access to a PDF version of the full version.
+- [Google's Python Tutorial](https://developers.google.com/edu/python/)
+- [Code Club Python Tutorial](https://codeclubprojects.org/en-GB/python/)
 
 ## Ending the week
 - [ ] Schedule time with Matt to review your tasks
