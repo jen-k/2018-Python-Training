@@ -80,6 +80,15 @@ Follow all instructions from trainers and mentors and treat them like a supervis
 ### Treat training as an extended interview
 While you are on probation, you should treat the period as an extended interview — not just with your manager, but with all the staff you may come into contact with.
 
+### Probation
+All employees new to the University are considered "[Probationary](https://policies.utexas.edu/policies/probationary-employees)" for their first 180 calendar days with the University. Your manager will perform an evaluation at 45, 90, and 120 days to ensure you are meeting expectations. Skills included in the evaluation include:
+- Interpersonal skills
+- Time management skills
+- Communication skills
+- Programming skills
+
+Talk to your supervisor if you have any questions or concerns about the University probationary period.
+
 ## Mentor expectations
 -	Weekly 30-minute meetings to discuss progress/answer questions – trainee to reserve the time.
 - Be available for questions as needed.
