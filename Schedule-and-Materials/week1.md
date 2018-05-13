@@ -23,7 +23,7 @@ If you're feeling stuck, or some of the material isn't working for you, try to f
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) If you like the free portion of this tutorial, we can provide a PDF copy of the full version.
 - [Google's Python Tutorial](https://developers.google.com/edu/python/)
 - [Code Club Python Tutorial](https://codeclubprojects.org/en-GB/python/)
-The [RegIT program](https://wikis.utexas.edu/display/training2020/7.+Python%3A+Syntax+and+Concepts) follows a similar, but different timeline with different materials and has a lot more detailed instruction.
+- The [RegIT program](https://wikis.utexas.edu/display/training2020/7.+Python%3A+Syntax+and+Concepts) follows a similar, but different timeline with different materials and has a lot more detailed instruction.
 
 ## Deliverables
 ### Coding Exercise 1 - Substrings
