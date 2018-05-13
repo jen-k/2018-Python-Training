@@ -5,21 +5,28 @@
 - [ ] Connect with your Mentor on IT Peer Group Slack
 - [ ] Schedule recurring 30 minute meetings with your mentor once a week for 6 weeks
 
-## GitHub use at UT
+## Study materials
+### GitHub use at UT
 I believe you are all familiar with GitHub, but [this tutorial](https://github.austin.utexas.edu/asmp-delta/afraid-to-commit) will give you some insight into how the tool is used at UT.
 
-## UT Web Development Best Practices
+### UT Web Development Best Practices
 HTML, CSS, and JavaScript materials have been excluded from these training materials because all of you should already be familiar with those concepts. The readings here are optional, but know you should follow University validation practices whenever publishing a site.
 - If you need to brush up on your HTML, CSS, or JavaScript skills, [HTML Dog](http://htmldog.com/) is a great resource.
 - It is important to build accessible sites. RegIT has thorough documentation on why and how to build accessible sites: [Training 2020: Accessibility](https://wikis.utexas.edu/display/training2020/Accessibility)
 - Validate your HTML before publishing: [W3C Markup Validation Service](http://validator.w3.org/)
 
-## Intro to Python
+### Intro to Python
 During your first week, you'll work through the [Think Python](https://interactivepython.org/courselib/static/thinkcspy/index.html) Tutorial. Chapters 1 through 10 will prepare you for exercises 1 and 2 below. Complete the rest of the chapters before moving on to additional exercises.
 
-Optional: The [RegIT program](https://wikis.utexas.edu/display/training2020/7.+Python%3A+Syntax+and+Concepts) follows a different timeline with different materials and has a lot of detailed instruction. Check it out of there are some concepts that aren't making sense.
+### Additional Resources
+If you're feeling stuck, or some of the material isn't working for you, try to find the same topic in another tutorial. Here are some solid options.
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) If you like the free portion of this tutorial, we can provide a PDF copy of the full version.
+- [Google's Python Tutorial](https://developers.google.com/edu/python/)
+- [Code Club Python Tutorial](https://codeclubprojects.org/en-GB/python/)
+The [RegIT program](https://wikis.utexas.edu/display/training2020/7.+Python%3A+Syntax+and+Concepts) follows a similar, but different timeline with different materials and has a lot more detailed instruction.
 
-## Coding Exercise 1 - Substrings
+## Deliverables
+### Coding Exercise 1 - Substrings
 Assume s is a string of lower case characters.
 
 Write a program that prints the longest substring of s in which the letters occur in alphabetical order. For example, if
@@ -40,10 +47,10 @@ Longest substring in alphabetical order is: abc
 ```
 Once you’ve tested your program to satisfaction, rewrite it as a function that takes s as an argument and returns a string, longest_string, which contains only the longest substring in alphabetical order (so abc instead of Longest substring in alphabetical order is: abc)
 
-## Coding Exercise 2 - Hangman
+### Coding Exercise 2 - Hangman
 Design a single-player Hangman game using function(s).
 
-## Coding Exercise 3 - Classy Hangman
+### Coding Exercise 3 - Classy Hangman
 Copy the Hangman game you created in Exercise 2: Hangman and convert it to use class(es) instead of function(s).
 
 Add these features, plus any others you feel are appropriate:
@@ -52,12 +59,6 @@ Add these features, plus any others you feel are appropriate:
 - Allow players to set their names
 - Allow setting the # of guesses allowed
 - Use a file for selection of a random word
-
-## Additional Resources
-If you're feeling stuck, or some of the material isn't working for you, try to find the same topic in another tutorial. Here are some solid options.
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) If you like the free portion of this tutorial, we have access to a PDF version of the full version.
-- [Google's Python Tutorial](https://developers.google.com/edu/python/)
-- [Code Club Python Tutorial](https://codeclubprojects.org/en-GB/python/)
 
 ## Ending the week
 - [ ] Schedule time with Matt to review your tasks
