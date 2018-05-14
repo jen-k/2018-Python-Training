@@ -20,17 +20,16 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 - [ ] Coding Exercise 4
 - [ ] Coding Exercise 5
 - [ ] Coding Exercise 6
+- [ ] Intro to Django
+- [ ] Intro to Pype
 - [ ] Coding Exercise 7
 
 ### [Week 3](/Schedule-and-Materials/week3.md)
 - [ ] Intro to Agile/Start attending Scrum & Planning
-- [ ] Intro to Django
 - [ ] Intro to Databases & SQL
-- [ ] Intro to Pype
-- [ ] System Design
+- [ ] Architecture and Usability
 - [ ] Flowcharting
-- [ ] Wireframes
-- [ ] Design your project - no coding until after design review
+- [ ] Design your project - no coding until after client signoff
 - [ ] Host a Design Review
 
 ### [Week 4-5](/Schedule-and-Materials/week4-5.md)

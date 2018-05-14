@@ -17,11 +17,13 @@ This week you will study additional concepts that will help you improve your cod
 ### Reading for exercise 7
 SHOULD WE SWAP EXERCISE 7 FOR A 'PUBLISH YOUR HANGMAN TO THE WEB' CHALLENGE? OR SHOULD WE HAVE THEM PUBLISH THE WEATHER APP TO THE WEB?
 - Learn about Django with the [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+- Read about [Testing in Django 1.11](https://docs.djangoproject.com/en/1.11/topics/testing/)
 - Optional Django reading from [Training 20/20](https://wikis.utexas.edu/display/training2020/Django)
 - Learn about [PyPE](https://wikis.utexas.edu/display/python/PyPE+Documentation) - a deployment interface and environment where code is executed once deployed. All python web projects at the University are deployed in PyPE. There is a ton of documentation for this tool. Start with:
     * [Getting Started](https://wikis.utexas.edu/display/python/Getting+Started+with+PyPE)
     * [Managing Project Deployments](https://wikis.utexas.edu/display/python/Managing+Project+Deployments)
     * There is also a high-level overview available on [Training 20/20](https://wikis.utexas.edu/display/training2020/Managing+PyPE+Projects)
+>	When developers checkout their first TRecs project and try to work on it locally, if it uses any of the external packages like tinyarms they will have to do the [Using packages in your VM](https://wikis.utexas.edu/display/trecs/Artifactory+Packaging) step here before it will work.
 - Read about the use of Virtual Machines at UT on [Training 20/20](https://wikis.utexas.edu/display/training2020/Virtual+Machines)
 
 
