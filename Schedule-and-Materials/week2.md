@@ -15,7 +15,7 @@ This week you will study additional concepts that will help you improve your cod
     * [The Code Ship](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/) - Guide to decorators
 
 ### Reading for exercise 7
-- Learn about Django with the [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+- Complete the [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 - Read about [Testing in Django 1.11](https://docs.djangoproject.com/en/1.11/topics/testing/)
 - Optional Django reading from [Training 20/20](https://wikis.utexas.edu/display/training2020/Django)
 - Learn about [PyPE](https://wikis.utexas.edu/display/python/PyPE+Documentation) - a deployment interface and environment where code is executed once deployed. All python web projects at the University are deployed in PyPE. There is a ton of documentation for this tool. Start with:
