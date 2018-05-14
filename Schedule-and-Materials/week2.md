@@ -43,7 +43,7 @@ You may notice that it's not the easiest thing to add tests after the fact, and 
 #### _**Check-in with your trainer before moving on to the next challenge**_
 
 ### Coding Exercise 7
-This is a big one. You can find the instructions [here](/Schedule-and-Materials/exercise7)
+This is a big one. You can find the instructions [here](/Schedule-and-Materials/exercise7.md)
 
 ## Ending the week
 - [ ] Schedule time with Matt to review your exercises
