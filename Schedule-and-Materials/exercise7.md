@@ -108,7 +108,7 @@ The first few steps of this part depend on how you're running things. Ask your t
 
 ### Rendering Templates for your Application
 The functions in the views.py file will eventually be quite complicated so having to pass all of the html for the page to the HttpResponse object would prove harrowing and cumbersome. Fortunately Django makes rendering html easy by letting us pass entire files to a special function called render.
-1. Create a new directory named templates within your app directory. Within the templates directory, create another director with the same name as your app so the path will look like this: <group>/djangotraining/web_dev/templates/web_dev(the reasons for this will be explained later). **Make a copy of the .html page you created for the business problem in 6. Web: Intro and save it within the web_dev/templates/web_dev directory.** Keep the original as it was. _WHAT PROJECT WILL WE USE FOR THIS??_
+1. Create a new directory named templates within your app directory. Within the templates directory, create another director with the same name as your app so the path will look like this: <group>/djangotraining/web_dev/templates/web_dev(the reasons for this will be explained later). Make a copy of your hangman project and save it within the web_dev/templates/web_dev directory. Keep the original as it was. _MATT - WHAT ELSE DO WE NEED TO MAKE THIS WORK?_
 2. Change your views.py file so that it looks like this:
 ```python
     from django.shortcuts import render

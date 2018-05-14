@@ -15,7 +15,6 @@ This week you will study additional concepts that will help you improve your cod
     * [The Code Ship](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/) - Guide to decorators
 
 ### Reading for exercise 7
-SHOULD WE SWAP EXERCISE 7 FOR A 'PUBLISH YOUR HANGMAN TO THE WEB' CHALLENGE? OR SHOULD WE HAVE THEM PUBLISH THE WEATHER APP TO THE WEB?
 - Learn about Django with the [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 - Read about [Testing in Django 1.11](https://docs.djangoproject.com/en/1.11/topics/testing/)
 - Optional Django reading from [Training 20/20](https://wikis.utexas.edu/display/training2020/Django)
@@ -44,24 +43,7 @@ You may notice that it's not the easiest thing to add tests after the fact, and 
 #### _**Check-in with your trainer before moving on to the next challenge**_
 
 ### Coding Exercise 7
-This is an advanced challenge.
-
-For this challenge, you need to create a class (object) that can be used to determine the weather. Make use of the requests library in python.
-
-#### Part 1
-Setup a class that returns the current weather for one location (doesn't matter if it's hardcoded at the moment). Display the following details, plus others you feel appropriate:
-- Zip Code
-- Temperature
-- Condition
-
-#### Part 2
-Now make it so that a user has the option of getting information for either their current location, or an input location.
-
-#### Part 3
-Now that all of that is set up, make it so that a user can get weather info up to 3 days from now.
-
-#### Bonus
-If you're ahead of schedule, add tests to your code.
+This is a big one. You can find the instructions [here](/Schedule-and-Materials/exercise7)
 
 ## Ending the week
 - [ ] Schedule time with Matt to review your exercises
