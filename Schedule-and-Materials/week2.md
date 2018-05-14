@@ -1,13 +1,19 @@
 # Week 2
 
 ## Starting the week
-- [ ]
+This week you will study additional concepts that will help you improve your code.
 
 ## Study materials
-### Python Tips and Best practices
-- Read links to information on accessibility, HTML, and PEP8 validation on the [Puffins Standards wiki page](https://wikis.utexas.edu/x/AbFbCQ)
-- Read about test driven development on [Training 20/20](https://wikis.utexas.edu/display/training2020/Test+Driven+Development)
+### Additional Python Resources
+- Test driven development: [Training 20/20](https://wikis.utexas.edu/display/training2020/Test+Driven+Development)
 - Details about how to improve string formatting [PyFormat](https://pyformat.info/)
+- Learn about Regex:
+    * [RegexOne](https://regexone.com/) - Lessons on Regex
+    * [RegExr](https://regexr.com/) - Tool for testing Regex
+- Learn about Python decorators:
+    * A good summary of what Python decorators are, how they can be used, and why they are useful on [Stack Overflow](https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators/1594484#1594484)
+    * [The Code Ship](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/  - Guide to decorators
+
 
 ## Deliverables
 ### Coding Exercise 4

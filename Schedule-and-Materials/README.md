@@ -21,10 +21,10 @@ Since the TRecs Python Program is the first of it's kind, the schedule below is 
 - [ ] Coding Exercise 5
 - [ ] Coding Exercise 6
 - [ ] Coding Exercise 7
-- [ ] Intro to Django
 
 ### [Week 3](/Schedule-and-Materials/week3.md)
 - [ ] Intro to Agile/Start attending Scrum & Planning
+- [ ] Intro to Django
 - [ ] Intro to Databases & SQL
 - [ ] Intro to Pype
 - [ ] System Design

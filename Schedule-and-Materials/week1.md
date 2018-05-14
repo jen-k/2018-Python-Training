@@ -17,6 +17,8 @@ HTML, CSS, and JavaScript materials have been excluded from these training mater
 ### Intro to Python
 During your first week, you'll work through the [Think Python](https://interactivepython.org/courselib/static/thinkcspy/index.html) Tutorial. Chapters 1 through 10 will prepare you for exercises 1 and 2 below. Complete the rest of the chapters before moving on to additional exercises.
 
+Also read the information on accessibility, HTML, and PEP8 validation on the [Puffins Standards wiki page](https://wikis.utexas.edu/x/AbFbCQ)
+
 ### Additional Resources
 If you're feeling stuck, or some of the material isn't working for you, try to find the same topic in another tutorial. Here are some solid options.
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) If you like the free portion of this tutorial, we can provide a PDF copy of the full version.
