@@ -14,6 +14,16 @@ This week you will study additional concepts that will help you improve your cod
     * A good summary of what Python decorators are, how they can be used, and why they are useful on [Stack Overflow](https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators/1594484#1594484)
     * [The Code Ship](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/  - Guide to decorators
 
+### Reading for exercise 7
+SHOULD WE SWAP EXERCISE 7 FOR A 'PUBLISH YOUR HANGMAN TO THE WEB' CHALLENGE? OR SHOULD WE HAVE THEM PUBLISH THE WEATHER APP TO THE WEB?
+- Learn about Django with the [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+- Optional Django reading from [Training 20/20](https://wikis.utexas.edu/display/training2020/Django)
+- Learn about [PyPE](https://wikis.utexas.edu/display/python/PyPE+Documentation) - a deployment interface and environment where code is executed once deployed. All python web projects at the University are deployed in PyPE. There is a ton of documentation for this tool. Start with:
+    * [Getting Started](https://wikis.utexas.edu/display/python/Getting+Started+with+PyPE)
+    * [Managing Project Deployments](https://wikis.utexas.edu/display/python/Managing+Project+Deployments)
+    * There is also a high-level overview available on [Training 20/20](https://wikis.utexas.edu/display/training2020/Managing+PyPE+Projects)
+- Read about the use of Virtual Machines at UT on [Training 20/20](https://wikis.utexas.edu/display/training2020/Virtual+Machines)
+
 
 ## Deliverables
 ### Coding Exercise 4
@@ -28,6 +38,8 @@ Fix any issues that it flags. There may be some that seem like they don't matter
 Add tests to your Hangman game.
 
 You may notice that it's not the easiest thing to add tests after the fact, and that you may need to change your existing code to make it easier to test. This is good though, if your code is simple enough to test, it means it's likely easy to understand. In the future, you can consider using Test Driven Development as you are working to make it easier on yourself.
+
+#### _**Check-in with your trainer before moving on to the next challenge**_
 
 ### Coding Exercise 7
 This is an advanced challenge.
