@@ -1,7 +1,7 @@
-# Exercise 6
+# Exercise 7
 
 ## Introduction
-This is a how to. Follow the instructions. Note them. They are important. You will have questions. Go on faith for now. This doesn't mean don't ask questions, but we are more focused on getting your first web challenge code up and running.
+This is a how-to. Follow the instructions and take thorough notes.
 
 ## Background
 HTML provides form tags allowing you to define name/value pairs to be submitted to another script. However, HTML alone does not allow one to capture those name/value pairs again in the receiving page. You must have a web script on the target web server to receive and process them.
@@ -41,7 +41,7 @@ If you have a special challenge library, then you will have a group that matches
 You may now view your project in GitHub. All projects within PyPE start with utdirect. The <group> portion of the name is referred to as the "project group."
 
 ### Setup your local project directory
-On your machine, set up a project directory. To do this, follow the directions for [Working with a new project group](https://wikis.utexas.edu/pages/viewpage.action?title=Pype+Developer+VM+Setup&spaceKey=python#PypeDeveloperVMSetup-Workingwithanewprojectgroup)
+On your machine, set up a project directory. To do this, follow the directions for [Working with a new project group](https://wikis.utexas.edu/pages/viewpage.action?title=Pype+Developer+VM+Setup&spaceKey=python#PypeDeveloperVMSetup-Workingwithanewprojectgroup).
 
 ### Check Out Your Project
 Now you will need to check out your project from the repository. If you are unsure how to do this, ask your trainer for instructions.
@@ -86,7 +86,9 @@ Now that you have a project, create an application within the project.
 ```
 ### Edit views.py
 1. In the views.py file which is in the web_dev directory, create a function called index. All it will do is accept a parameter called request and return this:
-    * HttpResponse("<h2>My First Web Dev page!</h2>")
+```html
+HttpResponse("<h2>My First Web Dev page!</h2>")
+```
 2. In order for this to work, you'll need to add the following line at the top of your views.py file:
     * from django.http import HttpResponse
 
@@ -115,6 +117,6 @@ The functions in the views.py file will eventually be quite complicated so havin
         return render(request=request, template_name='web_dev/Web1BusinessProblem.html')
 ```
 substituting the name of your .html file for the one shown above.
-3. Reload your Web page to see the form you wrote in 6. Web: Intro.
+3. Reload your Web page to see your form.
 
 **Congratulations!** You've just put up your first Web pages using Python (and Django).

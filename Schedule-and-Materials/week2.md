@@ -1,7 +1,7 @@
 # Week 2
 
 ## Starting the week
-This week you will study additional concepts that will help you improve your code.
+This week you will study additional concepts that will help you improve your code, and learn about Django and Pype.
 
 ## Study materials
 ### Additional Python Resources
@@ -12,7 +12,7 @@ This week you will study additional concepts that will help you improve your cod
     * [RegExr](https://regexr.com/) - Tool for testing Regex
 - Learn about Python decorators:
     * A good summary of what Python decorators are, how they can be used, and why they are useful on [Stack Overflow](https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators/1594484#1594484)
-    * [The Code Ship](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/  - Guide to decorators
+    * [The Code Ship](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/) - Guide to decorators
 
 ### Reading for exercise 7
 SHOULD WE SWAP EXERCISE 7 FOR A 'PUBLISH YOUR HANGMAN TO THE WEB' CHALLENGE? OR SHOULD WE HAVE THEM PUBLISH THE WEATHER APP TO THE WEB?
